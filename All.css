@@ -1,0 +1,133 @@
+﻿body {
+    background-color: #272727;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.for_style {
+    width: 100%;
+    height: 5px;
+    background-color: #272727;
+}
+
+.welcome {
+    width: 100%;
+    height: 200px;
+    background-color: #aaa;
+}
+
+    .welcome p {
+        position: relative;
+        font-size: 50px;
+        top: 70px;
+        font-weight: bold;
+        color: #0f0;
+        text-shadow: 0 0 10px #0f0, 0 0 20px #0f0, 0 0 30px #0f0, 0 0 40px #0f0;
+    }
+
+.the_games_button {
+    position: relative;
+    top: 260px;
+    font-size: 120px;
+    background-color: green;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #ADFF2F;
+    position: relative;
+    left: 530px;
+    border-radius: 100px;
+    text-shadow: 0 0 10px #ADFF2F, 0 0 20px #ADFF2F, 0 0 30px #ADFF2F, 0 0 40px #ADFF2F;
+}
+
+    .the_games_button:hover {
+        border-radius: 30px;
+        background-color: #ADFF2F;
+        color: green;
+        text-shadow: 0 0 10px green, 0 0 20px green, 0 0 30px green, 0 0 40px green;
+    }
+
+.the_info_button {
+    position: relative;
+    top: 120px;
+    font-size: 120px;
+    background-color: green;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #ADFF2F;
+    position: relative;
+    right: 550px;
+    border-radius: 100px;
+    text-shadow: 0 0 10px #ADFF2F, 0 0 20px #ADFF2F, 0 0 30px #ADFF2F, 0 0 40px #ADFF2F;
+}
+
+    .the_info_button:hover {
+        border-radius: 30px;
+        background-color: #ADFF2F;
+        color: green;
+        text-shadow: 0 0 10px green, 0 0 20px green, 0 0 30px green, 0 0 40px green;
+    }
+
+.logo {
+    width: 5px;
+    height: 5px;
+    position: relative;
+    left: 660px;
+}
+
+.demon_team_img {
+    position: relative;
+    bottom: 440px;
+    width: 635px;
+    height: 360px;
+}
+
+.the_backrooms_img {
+    width: 540px;
+    height: 800px;
+}
+
+.little_info {
+    background-color: #aaa;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.instruction {
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.back_home {
+    position: relative;
+    bottom: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: green;
+    color: #ADFF2F;
+    border-radius: 30px;
+    text-shadow: 0 0 10px #ADFF2F, 0 0 20px #ADFF2F, 0 0 30px #ADFF2F, 0 0 40px #ADFF2F;
+}
+
+    .back_home:hover {
+        border-radius: 15px;
+        background-color: #ADFF2F;
+        color: green;
+        text-shadow: 0 0 10px green, 0 0 20px green, 0 0 30px green, 0 0 40px green;
+    }
